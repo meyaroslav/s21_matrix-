@@ -1,12 +1,5 @@
 # s21_matrix+
 
-Implementation of the s21_matrix_oop.h library.
-
-The russian version of the task can be found in the repository.
-
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -18,8 +11,6 @@ The russian version of the task can be found in the repository.
 
 
 ## Chapter I
-
-![s21_matrix](misc/images/s21_matrix.png)
 
 Planet Earth, 20 September 2000.
 
